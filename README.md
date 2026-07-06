@@ -26,4 +26,4 @@ This dataset records customer purchases across several product categories during
 	7. Which day of the week records the highest number of transactions?
 	8. How do sales patterns vary across product categories by gender?
 	9. What is the distribution of customer ages in the dataset?
-Which product category shows the highest average price per unit?
+	10. Which product category shows the highest average price per unit?
